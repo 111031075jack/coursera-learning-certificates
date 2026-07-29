@@ -31,3 +31,22 @@ Completed a Web Design course on Coursera.
 
 Platform:
 Coursera
+
+## 🏆 Certificates
+
+### Coursera Web Design
+
+Completed courses:
+
+- HTML5
+- CSS3
+- Responsive Web Design
+- JavaScript
+- Web Design Capstone
+
+Repository:
+[Coursera Web Design Certificates](https://github.com/111031075jack/coursera-learning-certificates)
+
+### Oracle Java SE 8 Programmer Certification
+
+- Java SE 8 Programmer I (1Z0-808)
