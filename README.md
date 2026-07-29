@@ -2,32 +2,55 @@
 
 This repository contains my professional certificates and learning achievements.
 
-## Coursera - Web Design
+## Coursera - Web Design for Everybody: Basics of Web Development & Coding
 
-Completed a Web Design course on Coursera.
+University of Michigan
 
-### Topics Covered
+Completed the Coursera Specialization:
+**Web Design for Everybody: Basics of Web Development & Coding**
 
-- HTML
-- CSS
+### Skills Covered
+
+- HTML5
+- CSS3
 - Responsive Web Design
 - JavaScript
+- DOM Manipulation
 - Web Development Fundamentals
 
-### Certificates
+---
 
-- [Introduction to HTML5](./Coursera-Web-Design/Coursera%20Introduction%20to%20HTML5.pdf)
+## Certificates
 
-- [Introduction to CSS3](./Coursera-Web-Design/Coursera%20Introduction%20to%20CSS3.pdf)
+### Specialization Certificate
 
-- [Interactivity with JavaScript](./Coursera-Web-Design/Coursera%20Interactivity%20with%20JavaScript.pdf)
+- [Web Design for Everybody: Basics of Web Development & Coding](https://www.coursera.org/account/accomplishments/specialization/certificate/G1IO158RCFPL)
 
-- [Advanced Styling with Responsive Design](./Coursera-Web-Design/Coursera%20Advanced%20Styling%20with%20Responsive%20Design.pdf)
+---
 
-- [Web Design for Everybody Capstone](./Coursera-Web-Design/Coursera%20Web%20Design%20for%20Everybody%20Capstone.pdf)
+### Course Certificates
 
-- [Final Certificate](./Coursera-Web-Design/Coursera%20證書.pdf)
+1. [Introduction to HTML5](https://www.coursera.org/account/accomplishments/certificate/HKLHKGEA0RGF)
 
+2. [Introduction to CSS3](https://www.coursera.org/account/accomplishments/certificate/ARI53MX04MRB)
+
+3. [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/certificate/498JL94Q637M)
+
+4. [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/certificate/7PW2UUWRLJE0)
+
+5. [Web Design for Everybody Capstone](https://www.coursera.org/account/accomplishments/certificate/5OITCAGEEVMA)
+
+
+## Certificate Files
+
+PDF files are available in:
+
+`Coursera-Web-Design/`
+
+---
 
 Platform:
 Coursera
+
+University:
+University of Michigan
