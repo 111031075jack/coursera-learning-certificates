@@ -6,21 +6,22 @@ This repository contains my professional certificates and learning achievements.
 
 Completed a Web Design course on Coursera.
 
-Topics covered:
+### Topics Covered
+
 - HTML
 - CSS
 - Responsive Web Design
 - JavaScript Basics
 - Web Development Fundamentals
 
-Certificates:
+### Certificates
 
-1. Introduction to Web Design
-2. HTML and CSS Fundamentals
-3. Responsive Web Design
-4. JavaScript Basics
-5. Web Development Project
-6. Final Certificate
+- [01-Web-Design-Basics](./Coursera-Web-Design/01-Web-Design-Basics.pdf)
+- [02-HTML-CSS-Fundamentals](./Coursera-Web-Design/02-HTML-CSS-Fundamentals.pdf)
+- [03-Responsive-Web-Design](./Coursera-Web-Design/03-Responsive-Web-Design.pdf)
+- [04-JavaScript-Basics](./Coursera-Web-Design/04-JavaScript-Basics.pdf)
+- [05-Web-Development-Project](./Coursera-Web-Design/05-Web-Development-Project.pdf)
+- [06-Final-Certificate](./Coursera-Web-Design/06-Final-Certificate.pdf)
 
-Completion Platform:
+Platform:
 Coursera
